@@ -1,0 +1,15 @@
+{
+  "xDrive": {
+    "0.7": {
+      "file": "xDrive-0.7.zip",
+      "url": "https://github.com/aryanpandey8047/xdrivetest/releases/download/v0.7/xDrive-0.7.zip",
+      "version": "0.7",
+      "hash": "c6efdec756f0703ee7b39e4ef5b35195776c5b0dbf5002243be2d2dede1522ab",        
+      "size": 58348717,                 
+      "updates": [],
+      "platforms": [
+        "windows"
+      ]
+    }
+  }
+}

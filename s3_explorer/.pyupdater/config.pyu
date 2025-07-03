@@ -13,7 +13,7 @@
     "MAX_DOWNLOAD_RETRIES": 3,
     "HTTP_TIMEOUT": 30,
     "UPDATE_URLS": [
-      "https://github.com/OakTechs/xdrive/releases/latest"
+      "https://github.com/OakTechs/xdrive/releases/latest/download/"
     ],
     "DATA_DIR": "C:\\wamp64\\www\\xdrive\\s3_explorer"
   },

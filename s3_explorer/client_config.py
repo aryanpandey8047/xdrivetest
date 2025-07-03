@@ -1,5 +1,5 @@
 class ClientConfig(object):
-    PUBLIC_KEY = 'None'
+    PUBLIC_KEY = '{"schema_version": 1, "key": "TEST_KEY"}'
     APP_NAME = 'xDrive'
     COMPANY_NAME = 'Oakstree'
     HTTP_TIMEOUT = 30
