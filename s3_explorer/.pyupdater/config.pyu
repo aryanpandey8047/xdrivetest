@@ -1,0 +1,26 @@
+{
+  "config_dir": "C:\\wamp64\\www\\xdrive\\s3_explorer\\.pyupdater",
+  "filename": "C:\\wamp64\\www\\xdrive\\s3_explorer\\.pyupdater\\config.pyu",
+  "count": 0,
+  "app_config": {
+    "APP_NAME": "xDrive",
+    "CLIENT_CONFIG_PATH": [
+      "client_config.py"
+    ],
+    "COMPANY_NAME": "Oakstree",
+    "PLUGIN_CONFIGS": {},
+    "UPDATE_PATCHES": false,
+    "MAX_DOWNLOAD_RETRIES": 3,
+    "HTTP_TIMEOUT": 30,
+    "UPDATE_URLS": [
+      "https://github.com/OakTechs/xdrive/releases/latest"
+    ],
+    "DATA_DIR": "C:\\wamp64\\www\\xdrive\\s3_explorer"
+  },
+  "version_meta": {
+    "updates": {}
+  },
+  "py_repo_config": {
+    "patches": {}
+  }
+}

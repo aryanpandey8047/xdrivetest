@@ -1,0 +1,12 @@
+{
+    "profiles": {
+        "Default": {
+            "aws_access_key_id": "DO801NTV6C9XEDEYNTDC",
+            "aws_secret_access_key": "dQzUHOpxDJSaTtV9vkSTU4HdGmrjXXj6gGs1H6JUqVQ",
+            "aws_default_region": "sgp1",
+            "endpoint_url": "https://sgp1.digitaloceanspaces.com",
+            "default_s3_bucket": "oakstree"
+        }
+    },
+    "active_profile_name": "Default"
+}
