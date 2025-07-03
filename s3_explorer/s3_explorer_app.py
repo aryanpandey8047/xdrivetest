@@ -59,7 +59,7 @@ from handler.sharable_link import generate_shareable_s3_link
 
 from PyQt6.QtGui import QClipboard
 
-__version__ = "0.7"
+__version__ = "0.6"
 
 # --- Application Data Paths ---
 # --- Application Data Paths ---
